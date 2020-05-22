@@ -32,7 +32,7 @@
         "width": 1,
         "height": 1,
         "velocity": 9,
-        "timeToLive": 2500
+        "timeToLive": 1500
     },
     "tank": {
         "width": 85,
