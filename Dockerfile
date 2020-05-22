@@ -1,5 +1,7 @@
 FROM node:12
 
+MAINTAINER me
+
 # Create app directory
 WORKDIR /usr/src/app
 
